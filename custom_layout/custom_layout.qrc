@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>custom_layout.qss</file>
+    </qresource>
+</RCC>

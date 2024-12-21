@@ -1,0 +1,19 @@
+CustomLayoutArea  
+{  
+    background: red;  
+}  
+
+CustomLayoutItem #CustomLayoutItemTitleFrame  
+{  
+    background: yellow;  
+}  
+
+CustomLayoutItem #CustomLayoutItemContentFrame  
+{  
+    background: cyan;  
+}
+
+CustomLayoutMask
+{
+    background: pink; 
+}
